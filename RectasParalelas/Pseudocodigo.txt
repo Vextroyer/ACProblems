@@ -1,0 +1,13 @@
+Recta 1:	x11y11 x12y12
+Recta 2:	x21y21 x22y22
+
+Recibe x11 y11 x12 y12 x21 y21 x22 y22
+
+#Estos son alias pero no es necesario declaralos como variables
+#dx1 = x11 - x12
+#dx2 = x21 - x22
+#dy1 = y11 - y12
+#dy2 = y21 - y22
+
+si (dx1 = 0 y dx2 = 0) o (dy1/dx1 = dy2 / dx2) entonces es paralela
+si no entonces no es paralela
