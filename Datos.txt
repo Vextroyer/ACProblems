@@ -1,0 +1,6 @@
+Equipo 2
+Problemas:
+	6
+	10
+	15
+	88
